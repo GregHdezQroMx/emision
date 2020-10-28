@@ -1,0 +1,64 @@
+{
+   "movementsMadeModels": [
+      {
+         "amount": "200",
+         "afectacion": "Abono",
+         "authorization": "000999",
+         "accountNumber": "000001",
+         "tranferConcept": "Transferencia",
+         "transacctionId": "000000001",
+         "transacctionType": "WT04",
+         "transacctionDescription": "Viaje",
+         "date": "2020-10-5"
+      },
+      {
+         "amount": "550",
+         "afectacion": "Abono",
+         "authorization": "000999",
+         "accountNumber": "000001",
+         "tranferConcept": "SPEI",
+         "transacctionId": "000000002",
+         "transacctionType": "WT04",
+         "transacctionDescription": "Deposito",
+         "date": "2020-10-6"
+      },
+      {
+         "amount": "30",
+         "afectacion": "Cargo",
+         "authorization": "000999",
+         "accountNumber": "000001",
+         "tranferConcept": "Compras",
+         "transacctionId": "000000003",
+         "transacctionType": "WT02",
+         "transacctionDescription": "Compra Café",
+         "date": "2020-10-7"
+      },
+      {
+         "amount": "150",
+         "afectacion": "Cargo",
+         "authorization": "000001",
+         "accountNumber": "000999",
+         "tranferConcept": "SPEI",
+         "transacctionId": "000000004",
+         "transacctionType": "WT03",
+         "transacctionDescription": "Pago Luz",
+         "date": "2020-10-8"
+      },
+      {
+         "amount": "50",
+         "afectacion": "Cargo",
+         "authorization": "000999",
+         "accountNumber": "000001",
+         "tranferConcept": "Pago",
+         "transacctionId": "000000005",
+         "transacctionType": "WT01",
+         "transacctionDescription": "Loxxo",
+         "date": "2020-10-9"
+      }
+   ],
+   "footer": {
+      "pageNumber": 1,
+      "totalPages": 3,
+      "totalRecords": 15
+   }
+}

@@ -1,0 +1,64 @@
+{
+   "movementsMadeModels": [
+      {
+         "amount": "500",
+         "afectacion": "Abono",
+         "authorization": "000999",
+         "accountNumber": "000001",
+         "tranferConcept": "Compras",
+         "transacctionId": "000000006",
+         "transacctionType": "WT04",
+         "transacctionDescription": "Salida Dinero",
+         "date": "2020-10-10"
+      },
+      {
+         "amount": "50",
+         "afectacion": "Abono",
+         "authorization": "000999",
+         "accountNumber": "000001",
+         "tranferConcept": "Compras",
+         "transacctionId": "000000007",
+         "transacctionType": "WT04",
+         "transacctionDescription": "deposito",
+         "date": "2020-10-10"
+      },
+      {
+         "amount": "1000",
+         "afectacion": "Cargo",
+         "authorization": "000999",
+         "accountNumber": "000001",
+         "tranferConcept": "Compras",
+         "transacctionId": "000000008",
+         "transacctionType": "WT02",
+         "transacctionDescription": "Compra Nike",
+         "date": "2020-10-11"
+      },
+      {
+         "amount": "90",
+         "afectacion": "Cargo",
+         "authorization": "000001",
+         "accountNumber": "000999",
+         "tranferConcept": "SPEI",
+         "transacctionId": "000000009",
+         "transacctionType": "WT03",
+         "transacctionDescription": "Pago Serv. Agua",
+         "date": "2020-10-12"
+      },
+      {
+         "amount": "550",
+         "afectacion": "Abono",
+         "authorization": "000999",
+         "accountNumber": "000001",
+         "tranferConcept": "Pago",
+         "transacctionId": "000000010",
+         "transacctionType": "WT01",
+         "transacctionDescription": "Salida de dinero",
+         "date": "2020-10-13"
+      }
+   ],
+   "footer": {
+      "pageNumber": 2,
+      "totalPages": 3,
+      "totalRecords": 15
+   }
+}
